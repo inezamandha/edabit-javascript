@@ -13,3 +13,4 @@
 | 7 | [Buggy Code (Part 1)](https://edabit.com/challenge/j7yQbF3J3rToHsDBP) | 2024/05/16 | |
 | 8 | [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o) | 2024/05/17 | | 
 | 9 | [Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs) | 2024/05/20 | |
+| 10 | [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS) | 2024/05/21 | |
