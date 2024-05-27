@@ -15,3 +15,4 @@
 | 9 | [Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs) | 2024/05/20 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/power-calculator) |
 | 10 | [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS) | 2024/05/21 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/convert-hours-into-seconds) |
 | 11 | [Maximum Edge of a Triangle](https://edabit.com/challenge/nhXofMMyrowMyr9Nv) | 2024/05/22 | |
+| 12 | [Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk) | 2024/05/27 | |
