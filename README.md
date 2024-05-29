@@ -14,7 +14,7 @@
 | 8 | [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o) | 2024/05/17 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-first-element-in-an-array) | 
 | 9 | [Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs) | 2024/05/20 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/power-calculator) |
 | 10 | [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS) | 2024/05/21 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/convert-hours-into-seconds) |
-| 11 | [Maximum Edge of a Triangle](https://edabit.com/challenge/nhXofMMyrowMyr9Nv) | 2024/05/22 | |
-| 12 | [Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk) | 2024/05/27 | |
-| 13 | [Find the Perimeter of a Rectangle](https://edabit.com/challenge/XnJ24rWW7iJkNrtsh) | 2024/05/28 | |
-| 14 | [Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc) | 2025/05/29 | |
+| 11 | [Maximum Edge of a Triangle](https://edabit.com/challenge/nhXofMMyrowMyr9Nv) | 2024/05/22 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/maximum-edge-of-a-triangle) |
+| 12 | [Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk) | 2024/05/27 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-remainder-from-two-numbers) |
+| 13 | [Find the Perimeter of a Rectangle](https://edabit.com/challenge/XnJ24rWW7iJkNrtsh) | 2024/05/28 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/find-the-perimeter-of-a-rectangle) |
+| 14 | [Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc) | 2025/05/29 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-something-to-me) |
