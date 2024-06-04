@@ -17,7 +17,7 @@
 | 11 | [Maximum Edge of a Triangle](https://edabit.com/challenge/nhXofMMyrowMyr9Nv) | 2024/05/22 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/maximum-edge-of-a-triangle) |
 | 12 | [Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk) | 2024/05/27 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-remainder-from-two-numbers) |
 | 13 | [Find the Perimeter of a Rectangle](https://edabit.com/challenge/XnJ24rWW7iJkNrtsh) | 2024/05/28 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/find-the-perimeter-of-a-rectangle) |
-| 14 | [Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc) | 2025/05/29 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-something-to-me) |
-| 15 | [Correct the Mistakes](https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i) | 2025/05/30 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/correct-the-mistakes) |
-| 16 | [Is the Number Less Than or Equal to Zero?](https://edabit.com/challenge/PTiLYyb4A69KZtBCg) | 2025/05/31 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-number-less-than-or-equal-to-zero) |
-| 17 | [Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG) | 2025/06/03 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/sum-of-polygon-angles) |
+| 14 | [Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc) | 2024/05/29 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-something-to-me) |
+| 15 | [Correct the Mistakes](https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i) | 2024/05/30 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/correct-the-mistakes) |
+| 16 | [Is the Number Less Than or Equal to Zero?](https://edabit.com/challenge/PTiLYyb4A69KZtBCg) | 2024/05/31 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-number-less-than-or-equal-to-zero) |
+| 17 | [Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG) | 2024/06/03 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/sum-of-polygon-angles) |
