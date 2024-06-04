@@ -21,3 +21,4 @@
 | 15 | [Correct the Mistakes](https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i) | 2024/05/30 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/correct-the-mistakes) |
 | 16 | [Is the Number Less Than or Equal to Zero?](https://edabit.com/challenge/PTiLYyb4A69KZtBCg) | 2024/05/31 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-number-less-than-or-equal-to-zero) |
 | 17 | [Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG) | 2024/06/03 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/sum-of-polygon-angles) |
+| 18 | [Basketball Points](https://edabit.com/challenge/Y46Xp2pcvTB77bmdD) | 2024/06/04 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/basketball-points) |
