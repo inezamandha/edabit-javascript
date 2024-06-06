@@ -23,3 +23,4 @@
 | 17 | [Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG) | 2024/06/03 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/sum-of-polygon-angles) |
 | 18 | [Basketball Points](https://edabit.com/challenge/Y46Xp2pcvTB77bmdD) | 2024/06/04 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/basketball-points) |
 | 19 | [Basic Variable Assignment](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK) | 2024/06/05 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/basic-variable-assignment) |
+| 20 | [Less Than 100?](https://edabit.com/challenge/9MjEpkL7yAjAqiH58) | 2024/06/06 | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/less-than-100) |
