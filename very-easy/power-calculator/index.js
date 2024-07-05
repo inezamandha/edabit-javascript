@@ -1,5 +1,5 @@
 function circuitPower(voltage, current) {
-	return voltage * current
+  return voltage * current;
 }
 
-export default circuitPower
+export default circuitPower;
