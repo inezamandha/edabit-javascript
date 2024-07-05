@@ -1,5 +1,5 @@
 function points(twoPointers, threePointers) {
-	return (twoPointers * 2) + (threePointers * 3)
+  return twoPointers * 2 + threePointers * 3;
 }
 
-export default points
+export default points;
