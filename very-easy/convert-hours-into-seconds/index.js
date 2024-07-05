@@ -1,5 +1,5 @@
 function howManySeconds(hours) {
-    return hours * 60 * 60
+  return hours * 60 * 60;
 }
 
-export default howManySeconds
+export default howManySeconds;
