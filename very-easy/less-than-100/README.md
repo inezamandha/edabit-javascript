@@ -21,4 +21,5 @@ lessThan100(3, 77) ➞ true
 ```
 
 ### **Notes**
+
 N/A
