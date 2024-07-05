@@ -1,5 +1,5 @@
 function getFirstValue(arr) {
-	return arr[0]
+  return arr[0];
 }
 
-export default getFirstValue
+export default getFirstValue;

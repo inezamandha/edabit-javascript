@@ -19,4 +19,5 @@ getFirstValue([-500, 0, 59]) ➞ -500
 ```
 
 ### **Notes**
+
 - The first element in an array always has an index of 0.
