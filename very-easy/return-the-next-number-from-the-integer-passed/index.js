@@ -1,5 +1,5 @@
 function addition(num) {
-	return num + 1
+  return num + 1;
 }
 
-export default addition
+export default addition;
