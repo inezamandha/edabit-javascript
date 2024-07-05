@@ -1,5 +1,5 @@
 function convert(minutes) {
-	return minutes * 60
+  return minutes * 60;
 }
 
-export default convert
+export default convert;
