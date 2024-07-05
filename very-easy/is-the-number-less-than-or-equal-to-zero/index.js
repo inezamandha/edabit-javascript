@@ -1,5 +1,5 @@
 function lessThanOrEqualToZero(num) {
-	return num <= 0 ? true : false
+  return num <= 0 ? true : false;
 }
 
-export default lessThanOrEqualToZero
+export default lessThanOrEqualToZero;
