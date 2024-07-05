@@ -1,5 +1,5 @@
 function cubes(a) {
-	return a ** 3
+  return a ** 3;
 }
 
-export default cubes
+export default cubes;
