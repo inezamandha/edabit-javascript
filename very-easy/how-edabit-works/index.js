@@ -1,5 +1,5 @@
 function hello() {
-	return "hello edabit.com"
+  return 'hello edabit.com';
 }
 
-export default hello
+export default hello;
