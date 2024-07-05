@@ -1,5 +1,5 @@
 function squared(a) {
-	return a * a
+  return a * a;
 }
 
-export default squared
+export default squared;

@@ -19,5 +19,6 @@ squared(100) ➞ 10000
 ```
 
 ### **Notes**
+
 - **READ EVERY WORD CAREFULLY, CHARACTER BY CHARACTER!**
 - Don't overthink this challenge; it's not supposed to be hard.
