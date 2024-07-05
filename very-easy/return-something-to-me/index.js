@@ -1,5 +1,5 @@
 function giveMeSomething(a) {
-	return "something " + a
+  return 'something ' + a;
 }
 
-export default giveMeSomething
+export default giveMeSomething;
