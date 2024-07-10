@@ -1,7 +1,7 @@
 function charCount(myChar, str) {
   let count = 0;
   for (let char of str) {
-    if (char.toLowerCase() === myChar) {
+    if (char === myChar) {
       count += 1;
     }
   }
