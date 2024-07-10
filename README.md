@@ -30,3 +30,9 @@
 | 24  | [Using the "&&" Operator](https://edabit.com/challenge/vJCZmgvvDjehyDcDK)                        | 2024/06/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/using-the-%26%26-operator)                      |
 | 25  | [Are the Numbers Equal?](https://edabit.com/challenge/QSnaSH5S3oxZkwcNc)                         | 2024/06/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/are-the-numbers-equal)                          |
 | 26  | [Re-Form the Word](https://edabit.com/challenge/KQQ7RMXjSK257GQgy)                               | 2024/06/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/re-form-the-word)                               |
+
+### Easy
+
+| No  | Challenge Name                                                                | Completion Date | Solution                                                                                                  |
+| --- | ----------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------- |
+| 1   | [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR) | 2024/06/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-amount-of-potatoes) |
