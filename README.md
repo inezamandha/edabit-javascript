@@ -39,3 +39,4 @@
 | 2   | [What's Hiding Amongst the Crowd?](https://edabit.com/challenge/rvsvGvqZ3BzNieKqA)           | 2024/06/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/what-is-hiding-amongst-the-crowd)           |
 | 3   | [Count Instances of a Character in a String](https://edabit.com/challenge/kbFhwaDyrd79JrgeB) | 2024/06/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/count-instances-of-a-character-in-a-string) |
 | 4   | [Incorrect Import Statement](https://edabit.com/challenge/3XiwjSzuMN4MQN6tJ)                 | 2024/06/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/incorrect-import-statement)                 |
+| 5   | [Error Messages](https://edabit.com/challenge/eGr8qEJjKwedk9SqY)                             | 2024/06/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/error-messages)                             |
