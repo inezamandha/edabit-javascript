@@ -33,6 +33,7 @@
 
 ### Easy
 
-| No  | Challenge Name                                                                | Completion Date | Solution                                                                                                  |
-| --- | ----------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------- |
-| 1   | [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR) | 2024/06/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-amount-of-potatoes) |
+| No  | Challenge Name                                                                     | Completion Date | Solution                                                                                                       |
+| --- | ---------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1   | [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR)      | 2024/06/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-amount-of-potatoes)      |
+| 2   | [What's Hiding Amongst the Crowd?](https://edabit.com/challenge/rvsvGvqZ3BzNieKqA) | 2024/06/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/what-is-hiding-amongst-the-crowd) |
