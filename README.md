@@ -41,3 +41,4 @@
 | 3   | [Count Instances of a Character in a String](https://edabit.com/challenge/kbFhwaDyrd79JrgeB) | 2024/06/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/count-instances-of-a-character-in-a-string) |
 | 4   | [Incorrect Import Statement](https://edabit.com/challenge/3XiwjSzuMN4MQN6tJ)                 | 2024/06/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/incorrect-import-statement)                 |
 | 5   | [Error Messages](https://edabit.com/challenge/eGr8qEJjKwedk9SqY)                             | 2024/06/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/error-messages)                             |
+| 6   | [Reverse the Case](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)                           | 2024/06/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/reverse-the-case)                           |
