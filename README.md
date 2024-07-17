@@ -45,3 +45,4 @@
 | 5   | [Error Messages](https://edabit.com/challenge/eGr8qEJjKwedk9SqY)                             | 2024/06/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/error-messages)                             |
 | 6   | [Reverse the Case](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)                           | 2024/06/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/reverse-the-case)                           |
 | 7   | [Hiding the Card Number](https://edabit.com/challenge/rtpvAqFT3koqMoFCJ)                     | 2024/06/20      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/hiding-the-card-number)                     |
+| 8   | [Check If It's a Title String](https://edabit.com/challenge/6q9iTtQdnZZM5Cbai)               | 2024/06/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/check-if-it-is-a-title-string)              |
