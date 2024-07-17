@@ -53,3 +53,4 @@
 | 9   | [Valid Zip Code](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)                             | 2024/06/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/valid-zip-code)                             |
 | 10  | [RegEx: Boundary Assertions I](https://edabit.com/challenge/AWENJSwyhcceiKvQX)               | 2024/06/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/regex-boundary-assertions-i)                |
 | 11  | [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)           | 2024/06/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/remove-every-vowel-from-a-string)           |
+| 12  | [How Many Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF)                           | 2024/06/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/how-many-vowels)                            |
