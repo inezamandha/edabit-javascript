@@ -51,3 +51,4 @@
 | 8   | [Check If It's a Title String](https://edabit.com/challenge/6q9iTtQdnZZM5Cbai)               | 2024/06/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/check-if-it-is-a-title-string)              |
 | 9   | [Valid Zip Code](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)                             | 2024/06/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/valid-zip-code)                             |
 | 10  | [RegEx: Boundary Assertions I](https://edabit.com/challenge/AWENJSwyhcceiKvQX)               | 2024/06/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/regex-boundary-assertions-i)                |
+| 11  | [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)           | 2024/06/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/remove-every-vowel-from-a-string)           |
