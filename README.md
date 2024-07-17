@@ -36,6 +36,7 @@
 | 30  | [How Many D's Are There?](https://edabit.com/challenge/JZ7TL5S6Q7CqN6GRS)                        | 2024/06/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/how-many-d-is-are-there)                        |
 | 31  | [Shuffle the Name](https://edabit.com/challenge/eitMRpuJR3Ls4zQsn)                               | 2024/06/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/shuffle-the-name)                               |
 | 32  | [Find the Index](https://edabit.com/challenge/9ApjPggCLGiPt573m)                                 | 2024/06/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/find-the-index)                                 |
+| 33  | [Slice of Pie](https://edabit.com/challenge/qkNvH9BZLTNtKQvae)                                   | 2024/06/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/slice-of-pie)                                   |
 
 ### Easy
 
