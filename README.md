@@ -33,6 +33,7 @@
 | 27  | [Case Insensitive Comparison](https://edabit.com/challenge/9MBwBaa3wDKX8Mxbv)                    | 2024/06/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/case-insensitive-comparison)                    |
 | 28  | [Football Points](https://edabit.com/challenge/GwvwXHWCThHZrR7xu)                                | 2024/06/20      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/football-points)                                |
 | 29  | [Multiple of 100](https://edabit.com/challenge/qMr6wYGr6NaXAPQGF)                                | 2024/06/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/multiple-of-100)                                |
+| 30  | [How Many D's Are There?](https://edabit.com/challenge/JZ7TL5S6Q7CqN6GRS)                        | 2024/06/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/how-many-d-is-are-there)                        |
 
 ### Easy
 
