@@ -38,6 +38,7 @@
 | 32  | [Find the Index](https://edabit.com/challenge/9ApjPggCLGiPt573m)                                 | 2024/06/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/find-the-index)                                 |
 | 33  | [Slice of Pie](https://edabit.com/challenge/qkNvH9BZLTNtKQvae)                                   | 2024/06/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/slice-of-pie)                                   |
 | 34  | [On/Off Switches](https://edabit.com/challenge/EZ4H6A8pBeTYfZzQe)                                | 2024/06/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/on-off-switches)                                |
+| 35  | [Fix the Expression](https://edabit.com/challenge/FipbQSYquQLPZ8QXG)                             | 2024/07/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/fix-the-expression)                             |
 
 ### Easy
 
