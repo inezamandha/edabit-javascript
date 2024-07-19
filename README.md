@@ -41,6 +41,7 @@
 | 35  | [Fix the Expression](https://edabit.com/challenge/FipbQSYquQLPZ8QXG)                             | 2024/07/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/fix-the-expression)                             |
 | 36  | [Buggy Code (Part 4)](https://edabit.com/challenge/4SmqXvQtL6qRgzfha)                            | 2024/07/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/buggy-code-part-4)                              |
 | 37  | [Owofied a Sentence](https://edabit.com/challenge/9kCTutboYJmRXotBj)                             | 2024/07/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/owofied-a-sentence)                             |
+| 38  | [Name Greeting!](https://edabit.com/challenge/6kdGMdd78jpZ45ujo)                                 | 2024/07/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/name-greeting)                                  |
 
 ### Easy
 
