@@ -57,3 +57,4 @@
 | 11  | [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)           | 2024/06/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/remove-every-vowel-from-a-string)           |
 | 12  | [How Many Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF)                           | 2024/06/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/how-many-vowels)                            |
 | 13  | [Largest Swap](https://edabit.com/challenge/hD3euqPHM82Cbr7R8)                               | 2024/06/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/largest-swap)                               |
+| 14  | [Return the Index of the First Vowel](https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)        | 2024/07/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-index-of-the-first-vowel)        |
