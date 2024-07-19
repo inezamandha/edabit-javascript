@@ -63,3 +63,4 @@
 | 14  | [Return the Index of the First Vowel](https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)        | 2024/07/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-index-of-the-first-vowel)        |
 | 15  | [Find the Bomb](https://edabit.com/challenge/r4hycBjiBNMs6AAjq)                              | 2024/07/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-bomb)                              |
 | 16  | [How Many Decimal Places?](https://edabit.com/challenge/arKLRM8qGzKZbCxCk)                   | 2024/07/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/how-many-decimal-places)                    |
+| 17  | [Transforming Words into Binary Strings](https://edabit.com/challenge/djNxjykvXvKuHvGPZ)     | 2024/07/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/transforming-words-into-binary-strings)     |
