@@ -43,6 +43,7 @@
 | 37  | [Owofied a Sentence](https://edabit.com/challenge/9kCTutboYJmRXotBj)                             | 2024/07/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/owofied-a-sentence)                             |
 | 38  | [Name Greeting!](https://edabit.com/challenge/6kdGMdd78jpZ45ujo)                                 | 2024/07/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/name-greeting)                                  |
 | 39  | [Check if String Ending Matches Second String](https://edabit.com/challenge/H9ohpGMyqJ9bAkqE5)   | 2024/07/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/check-if-string-ending-matches-second-string)   |
+| 40  | [Is the String Empty?](https://edabit.com/challenge/EzbfiquDoAc2Zc9FL)                           | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-empty)                            |
 
 ### Easy
 
