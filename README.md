@@ -67,3 +67,4 @@
 | 16  | [How Many Decimal Places?](https://edabit.com/challenge/arKLRM8qGzKZbCxCk)                   | 2024/07/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/how-many-decimal-places)                    |
 | 17  | [Transforming Words into Binary Strings](https://edabit.com/challenge/djNxjykvXvKuHvGPZ)     | 2024/07/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/transforming-words-into-binary-strings)     |
 | 18  | [Secret Society](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)                             | 2024/07/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/secret-society)                             |
+| 19  | [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)                                | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-it-true)                                 |
