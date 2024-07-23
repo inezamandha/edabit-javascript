@@ -71,3 +71,4 @@
 | 18  | [Secret Society](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)                             | 2024/07/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/secret-society)                             |
 | 19  | [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)                                | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-it-true)                                 |
 | 20  | [Most Left Digit](https://edabit.com/challenge/tPvx6pgPmerPrwqM8)                            | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/most-left-digit)                            |
+| 21  | [Sort by String Length](https://edabit.com/challenge/aNZzLBxQpidWBF26X)                      | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-by-string-length)                      |
