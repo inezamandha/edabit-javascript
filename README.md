@@ -46,6 +46,7 @@
 | 40  | [Is the String Empty?](https://edabit.com/challenge/EzbfiquDoAc2Zc9FL)                           | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-empty)                            |
 | 41  | [Boolean to String Conversion](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)                   | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/boolean-to-string-conversion)                   |
 | 42  | [Compare Strings by Count of Characters](https://edabit.com/challenge/yHGowWucg3k2kJdZ4)         | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/compare-strings-by-count-of-characters)         |
+| 43  | [Convert an Array to a String](https://edabit.com/challenge/BLJ5SyhMoZD892G7w)                   | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/convert-an-array-to-a-string)                   |
 
 ### Easy
 
