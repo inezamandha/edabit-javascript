@@ -47,6 +47,7 @@
 | 41  | [Boolean to String Conversion](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)                   | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/boolean-to-string-conversion)                   |
 | 42  | [Compare Strings by Count of Characters](https://edabit.com/challenge/yHGowWucg3k2kJdZ4)         | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/compare-strings-by-count-of-characters)         |
 | 43  | [Convert an Array to a String](https://edabit.com/challenge/BLJ5SyhMoZD892G7w)                   | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/convert-an-array-to-a-string)                   |
+| 44  | [Remove the First and Last Characters](https://edabit.com/challenge/Wq3Q5ewau9Fu2GN9i)           | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/remove-the-first-and-last-characters)           |
 
 ### Easy
 
