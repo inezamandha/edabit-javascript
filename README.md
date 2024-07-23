@@ -73,3 +73,4 @@
 | 19  | [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)                                | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-it-true)                                 |
 | 20  | [Most Left Digit](https://edabit.com/challenge/tPvx6pgPmerPrwqM8)                            | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/most-left-digit)                            |
 | 21  | [Sort by String Length](https://edabit.com/challenge/aNZzLBxQpidWBF26X)                      | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-by-string-length)                      |
+| 22  | [Is One Array a Subset of Another?](https://edabit.com/challenge/3ymGugubc4gTfcqcR)          | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-one-array-a-subset-of-another)           |
