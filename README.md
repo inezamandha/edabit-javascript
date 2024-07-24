@@ -85,3 +85,4 @@
 | 25  | [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)                              | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/index-shuffle)                              |
 | 26  | [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)                            | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/spelling-it-out)                            |
 | 27  | [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)                | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/join-two-portions-of-a-path)                |
+| 28  | [Say "Hello" Say "Bye"](https://edabit.com/challenge/kLa2w7m4h849k8rmW)                      | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/say-hello-say-bye)                          |
