@@ -77,3 +77,4 @@
 | 21  | [Sort by String Length](https://edabit.com/challenge/aNZzLBxQpidWBF26X)                      | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-by-string-length)                      |
 | 22  | [Is One Array a Subset of Another?](https://edabit.com/challenge/3ymGugubc4gTfcqcR)          | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-one-array-a-subset-of-another)           |
 | 23  | [Sort Numbers in Descending Order](https://edabit.com/challenge/yaXQvCzAXJLe37Qie)           | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-numbers-in-descending-order)           |
+| 24  | [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)                          | 2024/07/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/hashes-and-pluses)                          |
