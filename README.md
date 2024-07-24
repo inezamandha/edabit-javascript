@@ -83,3 +83,4 @@
 | 24  | [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)                          | 2024/07/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/hashes-and-pluses)                          |
 | 25  | [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)                              | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/index-shuffle)                              |
 | 26  | [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)                            | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/spelling-it-out)                            |
+| 27  | [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)                | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/join-two-portions-of-a-path)                |
