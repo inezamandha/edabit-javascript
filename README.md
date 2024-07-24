@@ -50,6 +50,7 @@
 | 44  | [Remove the First and Last Characters](https://edabit.com/challenge/Wq3Q5ewau9Fu2GN9i)           | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/remove-the-first-and-last-characters)           |
 | 45  | [Default Mood](https://edabit.com/challenge/DdAkLaw4eyuWgCMmF)                                   | 2024/07/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/default-mood)                                   |
 | 46  | [Check if an Array Contains a Given Number](https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS)      | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/check-if-an-array-contains-a-given-number)      |
+| 47  | [Filter Strings from Array](https://edabit.com/challenge/XKX5NHT92okxXCKW7)                      | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/filter-strings-from-array)                      |
 
 ### Easy
 
