@@ -81,3 +81,4 @@
 | 23  | [Sort Numbers in Descending Order](https://edabit.com/challenge/yaXQvCzAXJLe37Qie)           | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-numbers-in-descending-order)           |
 | 24  | [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)                          | 2024/07/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/hashes-and-pluses)                          |
 | 25  | [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)                              | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/index-shuffle)                              |
+| 26  | [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)                            | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/spelling-it-out)                            |
