@@ -53,6 +53,7 @@
 | 47  | [Filter Strings from Array](https://edabit.com/challenge/XKX5NHT92okxXCKW7)                      | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/filter-strings-from-array)                      |
 | 48  | [Count Syllables](https://edabit.com/challenge/RPBqWjEa7iyo9p54F)                                | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/count-syllables)                                |
 | 49  | [Repeat String](https://edabit.com/challenge/DBC7uCaN3yA4uGFQN)                                  | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/repeat-string)                                  |
+| 50  | [Burrrrrrrp](https://edabit.com/challenge/cePrimGCGmaRrFHWv)                                     | 2024/07/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/burrrrrrrp)                                     |
 
 ### Easy
 
