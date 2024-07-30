@@ -89,3 +89,4 @@
 | 27  | [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)                | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/join-two-portions-of-a-path)                |
 | 28  | [Say "Hello" Say "Bye"](https://edabit.com/challenge/kLa2w7m4h849k8rmW)                      | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/say-hello-say-bye)                          |
 | 29  | [Repeating Letters](https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB)                          | 2024/07/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/repeating-letters)                          |
+| 30  | [Sort Numbers in Ascending Order](https://edabit.com/challenge/SS23vniCZ6ssGwsQP)            | 2024/07/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-numbers-in-ascending-order)            |
