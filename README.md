@@ -54,6 +54,7 @@
 | 48  | [Count Syllables](https://edabit.com/challenge/RPBqWjEa7iyo9p54F)                                | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/count-syllables)                                |
 | 49  | [Repeat String](https://edabit.com/challenge/DBC7uCaN3yA4uGFQN)                                  | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/repeat-string)                                  |
 | 50  | [Burrrrrrrp](https://edabit.com/challenge/cePrimGCGmaRrFHWv)                                     | 2024/07/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/burrrrrrrp)                                     |
+| 51  | [Two Makes Ten](https://edabit.com/challenge/5erCDJ8eJDrXkmwTK)                                  | 2024/07/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/two-makes-ten)                                  |
 
 ### Easy
 
