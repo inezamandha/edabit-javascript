@@ -57,6 +57,7 @@
 | 51  | [Two Makes Ten](https://edabit.com/challenge/5erCDJ8eJDrXkmwTK)                                   | 2024/07/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/two-makes-ten)                                   |
 | 52  | [Return a String as an Integer](https://edabit.com/challenge/rGsgEswWuW339yNxY)                   | 2024/07/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-a-string-as-an-integer)                   |
 | 53  | [Concatenate First and Last Name into One String](https://edabit.com/challenge/RQwdZmtrW8mCnuCMN) | 2024/07/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/concatenate-first-and-last-name-into-one-string) |
+| 54  | [Miserable Parody of a Calculator](https://edabit.com/challenge/fh9i7k936rvfjnCYR)                | 2024/07/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/miserable-parody-of-a-calculator)                |
 
 ### Easy
 
