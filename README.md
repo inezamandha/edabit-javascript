@@ -62,6 +62,7 @@
 | 56  | [Format I: Template String](https://edabit.com/challenge/DCmM4Eo6GQfrJoKXc)                       | 2024/07/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/format-i-template-string)                        |
 | 57  | [Evaluate an Equation](https://edabit.com/challenge/n2bFd2enCnHJkTwsK)                            | 2024/07/31      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/evaluate-an-equation)                            |
 | 58  | [Is the String Odd or Even?](https://edabit.com/challenge/2tcuBxn37oouMeErN)                      | 2024/08/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-odd-or-even)                       |
+| 59  | [WordCharWord](https://edabit.com/challenge/ep3sJHtww6PdgGszH)                                    | 2024/08/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/wordcharword)                                    |
 
 ### Easy
 
