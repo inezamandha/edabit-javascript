@@ -65,6 +65,7 @@
 | 59  | [WordCharWord](https://edabit.com/challenge/ep3sJHtww6PdgGszH)                                    | 2024/08/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/wordcharword)                                    |
 | 60  | [Repeating Letters N Times](https://edabit.com/challenge/pggD9dH8Nwuac7fPE)                       | 2024/08/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/repeating-letters-n-times)                       |
 | 61  | [Little Dictionary](https://edabit.com/challenge/p5xNwq2v9ZX7vo3mb)                               | 2024/08/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/little-dictionary)                               |
+| 62  | [Edaaaaabit](https://edabit.com/challenge/tHZBvD3w69hpDCtMg)                                      | 2024/08/07      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/edaaaaabit)                                      |
 
 ### Easy
 
