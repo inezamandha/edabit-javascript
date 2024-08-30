@@ -61,6 +61,7 @@
 | 55  | [Word without First Character](https://edabit.com/challenge/Me4pMDq7yX2XzHiYc)                    | 2024/07/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/word-without-first-character)                    |
 | 56  | [Format I: Template String](https://edabit.com/challenge/DCmM4Eo6GQfrJoKXc)                       | 2024/07/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/format-i-template-string)                        |
 | 57  | [Evaluate an Equation](https://edabit.com/challenge/n2bFd2enCnHJkTwsK)                            | 2024/07/31      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/evaluate-an-equation)                            |
+| 58  | [Is the String Odd or Even?](https://edabit.com/challenge/2tcuBxn37oouMeErN)                      | 2024/08/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-odd-or-even)                       |
 
 ### Easy
 
