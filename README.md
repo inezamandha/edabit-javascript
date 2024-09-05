@@ -70,6 +70,7 @@
 | 64  | [Reverse and Capitalize](https://edabit.com/challenge/nBW6ubsQCurPvhpWc)                          | 2024/08/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/reverse-and-capitalize)                          |
 | 65  | [Array from Comma-Delimited String](https://edabit.com/challenge/LHTF9ij2FtvwhnzQF)               | 2024/08/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/array-from-comma-delimited-string)               |
 | 66  | [Strange Pair](https://edabit.com/challenge/WBdjg7zgiqi6L5zsL)                                    | 2024/08/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/strange-pair)                                    |
+| 67  | [Fraction Greater Than One](https://edabit.com/challenge/L65zKSJKaDAj6JGyt)                       | 2024/08/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/fraction-greater-than-one)                       |
 
 ### Easy
 
