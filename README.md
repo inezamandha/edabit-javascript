@@ -72,6 +72,7 @@
 | 66  | [Strange Pair](https://edabit.com/challenge/WBdjg7zgiqi6L5zsL)                                    | 2024/08/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/strange-pair)                                    |
 | 67  | [Fraction Greater Than One](https://edabit.com/challenge/L65zKSJKaDAj6JGyt)                       | 2024/08/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/fraction-greater-than-one)                       |
 | 68  | [Vowel Replacer](https://edabit.com/challenge/5FhabpvT3FF75kgCi)                                  | 2024/08/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/vowel-replacer)                                  |
+| 69  | [Divides Evenly](https://edabit.com/challenge/JfB9mWmbwYHbupxCB)                                  | 2024/08/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/divides-evenly)                                  |
 
 ### Easy
 
