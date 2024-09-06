@@ -75,6 +75,7 @@
 | 69  | [Divides Evenly](https://edabit.com/challenge/JfB9mWmbwYHbupxCB)                                  | 2024/08/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/divides-evenly)                                  |
 | 70  | [Check if a Number is a Palindrome](https://edabit.com/challenge/6dbpFcrW4schC6zDP)               | 2024/08/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/check-if-a-number-is-a-palindrome)               |
 | 71  | [Exists a Number Higher?](https://edabit.com/challenge/77zq4RhMgWup22H6d)                         | 2024/08/20      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/exists-a-number-higher)                          |
+| 72  | [Is the String a Palindrome?](https://edabit.com/challenge/zvFri3sia4iNPTeqC)                     | 2024/08/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-a-palindrome)                      |
 
 ### Easy
 
