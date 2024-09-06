@@ -78,6 +78,7 @@
 | 72  | [Is the String a Palindrome?](https://edabit.com/challenge/zvFri3sia4iNPTeqC)                     | 2024/08/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-string-a-palindrome)                      |
 | 73  | [Is the Object Empty?](https://edabit.com/challenge/nGybgqB9agSqvBszF)                            | 2024/08/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-object-empty)                             |
 | 74  | [Leap Years](https://edabit.com/challenge/ALmkPHd7eoe5btx9y)                                      | 2024/08/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/leap-years)                                      |
+| 75  | [Return the First and Last Elements in an Array](https://edabit.com/challenge/R3AYf3eTdATXTQTdZ)  | 2024/08/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-first-and-last-elements-in-an-array)  |
 
 ### Easy
 
