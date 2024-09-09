@@ -82,6 +82,7 @@
 | 76  | [Check String for Spaces](https://edabit.com/challenge/RAoedjZwcGFhvRTru)                         | 2024/08/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/check-string-for-spaces)                         |
 | 77  | [Movie Theatre Admittance](https://edabit.com/challenge/fP7gFvDaBymoZrXFx)                        | 2024/08/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/movie-theatre-admittance)                        |
 | 78  | [Drinks Allowed?](https://edabit.com/challenge/PwpJNJiysvq3AuYJ8)                                 | 2024/08/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/drinks-allowed)                                  |
+| 79  | [Is the Last Character an "N"?](https://edabit.com/challenge/iiSAic33n4wGufQmG)                   | 2024/08/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-last-character-an-n)                      |
 
 ### Easy
 
