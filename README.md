@@ -80,6 +80,7 @@
 | 74  | [Leap Years](https://edabit.com/challenge/ALmkPHd7eoe5btx9y)                                      | 2024/08/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/leap-years)                                      |
 | 75  | [Return the First and Last Elements in an Array](https://edabit.com/challenge/R3AYf3eTdATXTQTdZ)  | 2024/08/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-first-and-last-elements-in-an-array)  |
 | 76  | [Check String for Spaces](https://edabit.com/challenge/RAoedjZwcGFhvRTru)                         | 2024/08/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/check-string-for-spaces)                         |
+| 77  | [Movie Theatre Admittance](https://edabit.com/challenge/fP7gFvDaBymoZrXFx)                        | 2024/08/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/movie-theatre-admittance)                        |
 
 ### Easy
 
