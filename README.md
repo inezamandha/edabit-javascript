@@ -88,6 +88,7 @@
 | 82  | [Lowercase, Uppercase or Mixed?](https://edabit.com/challenge/FBedBBPjcgGDBm5yr)                  | 2024/09/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/lowercase-uppercase-or-mixed)                    |
 | 83  | [Char-to-ASCII](https://edabit.com/challenge/xPAPYC24EEpwzwQDy)                                   | 2024/09/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/char-to-ascii)                                   |
 | 84  | [Is the Word Singular or Plural?](https://edabit.com/challenge/5vAX6Lw2Yrgdkx7Qi)                 | 2024/09/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-word-singular-or-plural)                  |
+| 85  | [Front 3 - Slice Check Repeat Concatenate](https://edabit.com/challenge/2tGbjoawAoP5rKGjy)        | 2024/09/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/front-3-slice-check-repeat-concatenate)          |
 
 ### Easy
 
