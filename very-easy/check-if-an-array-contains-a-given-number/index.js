@@ -1,5 +1,5 @@
 function check(arr, el) {
-  return arr.includes(el) ? true : false;
+  return arr.includes(el);
 }
 
 export default check;
