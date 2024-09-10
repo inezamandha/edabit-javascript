@@ -83,6 +83,7 @@
 | 77  | [Movie Theatre Admittance](https://edabit.com/challenge/fP7gFvDaBymoZrXFx)                        | 2024/08/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/movie-theatre-admittance)                        |
 | 78  | [Drinks Allowed?](https://edabit.com/challenge/PwpJNJiysvq3AuYJ8)                                 | 2024/08/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/drinks-allowed)                                  |
 | 79  | [Is the Last Character an "N"?](https://edabit.com/challenge/iiSAic33n4wGufQmG)                   | 2024/08/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-last-character-an-n)                      |
+| 80  | [Modifying the Last Character](https://edabit.com/challenge/iKEQo67KofMY4NSsP)                    | 2024/09/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/modifying-the-last-character)                    |
 
 ### Easy
 
