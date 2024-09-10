@@ -1,5 +1,5 @@
 function sameCase(str) {
-  return str === str.toLowerCase() || str === str.toUpperCase() ? true : false;
+  return str === str.toLowerCase() || str === str.toUpperCase();
 }
 
 export default sameCase;
