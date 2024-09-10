@@ -86,6 +86,7 @@
 | 80  | [Modifying the Last Character](https://edabit.com/challenge/iKEQo67KofMY4NSsP)                    | 2024/09/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/modifying-the-last-character)                    |
 | 81  | [Is the Water Boiling?](https://edabit.com/challenge/fy5rEBBtnhAN7FzzE)                           | 2024/09/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-water-boiling)                            |
 | 82  | [Lowercase, Uppercase or Mixed?](https://edabit.com/challenge/FBedBBPjcgGDBm5yr)                  | 2024/09/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/lowercase-uppercase-or-mixed)                    |
+| 83  | [Char-to-ASCII](https://edabit.com/challenge/xPAPYC24EEpwzwQDy)                                   | 2024/09/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/char-to-ascii)                                   |
 
 ### Easy
 
