@@ -1,6 +1,6 @@
 import intOrString from './index';
 
-describe('Javascript - Very Easy - []', () => {
+describe('Javascript - Very Easy - 87', () => {
   test('String or Integer?', () => {
     expect(intOrString(1)).toEqual('int');
     expect(intOrString('HELLO')).toEqual('str');
