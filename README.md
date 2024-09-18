@@ -90,6 +90,7 @@
 | 84  | [Is the Word Singular or Plural?](https://edabit.com/challenge/5vAX6Lw2Yrgdkx7Qi)                 | 2024/09/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/is-the-word-singular-or-plural)                  |
 | 85  | [Front 3 - Slice Check Repeat Concatenate](https://edabit.com/challenge/2tGbjoawAoP5rKGjy)        | 2024/09/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/front-3-slice-check-repeat-concatenate)          |
 | 86  | [Return the Four Letter Strings](https://edabit.com/challenge/havnWL4BimvoaXNMn)                  | 2024/09/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/return-the-four-letter-strings)                  |
+| 87  | [String or Integer?](https://edabit.com/challenge/NL3ygNoPHcktc4mM6)                              | 2024/09/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/very-easy/string-or-integer)                               |
 
 ### Easy
 
