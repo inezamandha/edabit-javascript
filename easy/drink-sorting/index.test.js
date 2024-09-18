@@ -24,7 +24,7 @@ const sorted2 = [
   { name: 'water', price: 120 },
 ];
 
-describe('Javascript - Easy - []', () => {
+describe('Javascript - Easy - 32', () => {
   test('Drink Sorting', () => {
     expect(sortDrinkByPrice(drinks1)).toEqual(sorted1);
     expect(sortDrinkByPrice(drinks2)).toEqual(sorted2);
