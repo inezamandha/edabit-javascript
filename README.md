@@ -133,6 +133,7 @@
 | 34  | [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)                        | 2024/07/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/capitalize-by-ascii)                        |
 | 35  | [Convert to Decimal Notation](https://edabit.com/challenge/4tLabih2cr5Haw7xo)                | 2024/07/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/convert-to-decimal-notation)                |
 | 36  | [Video Length in Seconds](https://edabit.com/challenge/n7qZMpuLsAMGBGNLA)                    | 2024/07/31      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/video-length-in-seconds)                    |
+| 37  | [Detect Browser from User Agent](https://edabit.com/challenge/PbEuBFLRpzgWQwuvY)             | 2024/08/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/detect-browser-from-user-agent)             |
 
 ### Medium
 
