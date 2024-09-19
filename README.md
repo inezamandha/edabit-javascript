@@ -136,6 +136,7 @@
 | 37  | [Detect Browser from User Agent](https://edabit.com/challenge/PbEuBFLRpzgWQwuvY)                 | 2024/08/01      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/detect-browser-from-user-agent)             |
 | 38  | [Is the Average of All Elements a Whole Number?](https://edabit.com/challenge/arzsQcGsstJxHAnGi) | 2024/08/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy)                                            |
 | 39  | [Is the Number Symmetrical?](https://edabit.com/challenge/at7jF9Y7SmPGyD92u)                     | 2024/08/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-the-number-symmetrical)                  |
+| 40  | [Omnipresent Value](https://edabit.com/challenge/Twbmxzd3JwkkqAWES)                              | 2024/08/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/omnipresent-value)                          |
 
 ### Medium
 
