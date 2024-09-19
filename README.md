@@ -130,6 +130,7 @@
 | 31  | [Is it Time for Milk and Cookies?](https://edabit.com/challenge/hPWnaSckJke5FXNEH)           | 2024/07/24      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-it-time-for-milk-and-cookies)            |
 | 32  | [Drink Sorting](https://edabit.com/challenge/nuXdWHAoHv9y38sn7)                              | 2024/07/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/drink-sorting)                              |
 | 33  | [Emotify the Sentence](https://edabit.com/challenge/Szh3ib2bpJCYXKrKa)                       | 2024/07/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/emotify-the-sentence)                       |
+| 34  | [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)                        | 2024/07/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/capitalize-by-ascii)                        |
 
 ### Medium
 
