@@ -131,6 +131,7 @@
 | 32  | [Drink Sorting](https://edabit.com/challenge/nuXdWHAoHv9y38sn7)                              | 2024/07/25      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/drink-sorting)                              |
 | 33  | [Emotify the Sentence](https://edabit.com/challenge/Szh3ib2bpJCYXKrKa)                       | 2024/07/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/emotify-the-sentence)                       |
 | 34  | [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)                        | 2024/07/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/capitalize-by-ascii)                        |
+| 35  | [Convert to Decimal Notation](https://edabit.com/challenge/4tLabih2cr5Haw7xo)                | 2024/07/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/convert-to-decimal-notation)                |
 
 ### Medium
 
