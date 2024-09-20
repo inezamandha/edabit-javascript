@@ -140,6 +140,7 @@
 | 41  | [Check if One Array can be Nested in Another](https://edabit.com/challenge/Gpy2qSFnfhGJnWMMj)    | 2024/08/07      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/check-if-one-array-can-be-nested-in-another)   |
 | 42  | [Sort an Array by String Length](https://edabit.com/challenge/Gz27eKkMcLarzE5Rj)                 | 2024/08/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-an-array-by-string-length)                |
 | 43  | [Find the Largest Numbers in a Group of Arrays](https://edabit.com/challenge/h7LTMAFeNz79rXB2Y)  | 2024/08/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-largest-numbers-in-a-group-of-arrays) |
+| 44  | [Maximum Possible Total](https://edabit.com/challenge/Wg3pBiH8HQggcfaTg)                         | 2024/08/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/maximum-possible-total)                        |
 
 ### Medium
 
