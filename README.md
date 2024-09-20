@@ -138,6 +138,7 @@
 | 39  | [Is the Number Symmetrical?](https://edabit.com/challenge/at7jF9Y7SmPGyD92u)                     | 2024/08/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/is-the-number-symmetrical)                   |
 | 40  | [Omnipresent Value](https://edabit.com/challenge/Twbmxzd3JwkkqAWES)                              | 2024/08/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/omnipresent-value)                           |
 | 41  | [Check if One Array can be Nested in Another](https://edabit.com/challenge/Gpy2qSFnfhGJnWMMj)    | 2024/08/07      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/check-if-one-array-can-be-nested-in-another) |
+| 42  | [Sort an Array by String Length](https://edabit.com/challenge/Gz27eKkMcLarzE5Rj)                 | 2024/08/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sort-an-array-by-string-length)              |
 
 ### Medium
 
