@@ -142,6 +142,7 @@
 | 43  | [Find the Largest Numbers in a Group of Arrays](https://edabit.com/challenge/h7LTMAFeNz79rXB2Y)  | 2024/08/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-largest-numbers-in-a-group-of-arrays) |
 | 44  | [Maximum Possible Total](https://edabit.com/challenge/Wg3pBiH8HQggcfaTg)                         | 2024/08/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/maximum-possible-total)                        |
 | 45  | [Return the Highest and Lowest Numbers](https://edabit.com/challenge/PBXe4hLP3mbbMEFt8)          | 2024/08/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-highest-and-lowest-numbers)         |
+| 46  | [Find the Smallest and Biggest Numbers](https://edabit.com/challenge/Q3n42rEWanZSTmsJm)          | 2024/08/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-smallest-and-biggest-numbers)         |
 
 ### Medium
 
