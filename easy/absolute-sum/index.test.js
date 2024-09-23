@@ -1,6 +1,6 @@
 import getAbsSum from './index';
 
-describe('Javascript - Easy - []', () => {
+describe('Javascript - Easy - 47', () => {
   test('Absolute Sum', () => {
     expect(getAbsSum([2, -1, -3, 4, 8])).toEqual(18);
     expect(getAbsSum([-1])).toEqual(1);
