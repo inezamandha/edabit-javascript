@@ -144,6 +144,7 @@
 | 45  | [Return the Highest and Lowest Numbers](https://edabit.com/challenge/PBXe4hLP3mbbMEFt8)          | 2024/08/13      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-highest-and-lowest-numbers)         |
 | 46  | [Find the Smallest and Biggest Numbers](https://edabit.com/challenge/Q3n42rEWanZSTmsJm)          | 2024/08/14      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/find-the-smallest-and-biggest-numbers)         |
 | 47  | [Absolute Sum](https://edabit.com/challenge/rCmEy2AQYLbRGgKyL)                                   | 2024/08/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/absolute-sum)                                  |
+| 48  | [Tuck in Array](https://edabit.com/challenge/7ysTEDruHz2prcJQ9)                                  | 2024/08/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/tuck-in-array)                                 |
 
 ### Medium
 
