@@ -151,6 +151,7 @@
 | 52  | [Matchstick Houses](https://edabit.com/challenge/tYHkTdFrEmWfxpPKF)                              | 2024/08/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/matchstick-houses)                             |
 | 53  | [Return the Factorial](https://edabit.com/challenge/GW5kYFCvGWDZ6TRxd)                           | 2024/08/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-factorial)                          |
 | 54  | [Amplify the Multiples of Four](https://edabit.com/challenge/FPHnbisnLwrQFYyAg)                  | 2024/08/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/amplify-the-multiples-of-four)                 |
+| 55  | [Add up the Numbers from a Single Number](https://edabit.com/challenge/4gzDuDkompAqujpRi)        | 2024/08/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/add-up-the-numbers-from-a-single-number)       |
 
 ### Medium
 
