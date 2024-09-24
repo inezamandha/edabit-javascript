@@ -153,6 +153,7 @@
 | 54  | [Amplify the Multiples of Four](https://edabit.com/challenge/FPHnbisnLwrQFYyAg)                  | 2024/08/26      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/amplify-the-multiples-of-four)                 |
 | 55  | [Add up the Numbers from a Single Number](https://edabit.com/challenge/4gzDuDkompAqujpRi)        | 2024/08/27      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/add-up-the-numbers-from-a-single-number)       |
 | 56  | [Algorithms I: Introduction to Recursion](https://edabit.com/challenge/vtDnynHfWCnMaKYym)        | 2024/08/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/algorithms-i-introduction-to-recursion)        |
+| 57  | [Even All the Way](https://edabit.com/challenge/6MZx5RqKYkFaogeAQ)                               | 2024/08/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/even-all-the-way)                              |
 
 ### Medium
 
