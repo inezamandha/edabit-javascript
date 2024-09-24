@@ -155,6 +155,7 @@
 | 56  | [Algorithms I: Introduction to Recursion](https://edabit.com/challenge/vtDnynHfWCnMaKYym)        | 2024/08/28      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/algorithms-i-introduction-to-recursion)        |
 | 57  | [Even All the Way](https://edabit.com/challenge/6MZx5RqKYkFaogeAQ)                               | 2024/08/29      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/even-all-the-way)                              |
 | 58  | [Filter out Strings from an Array](https://edabit.com/challenge/b2NdDSdkjqFnCTfS8)               | 2024/08/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/filter-out-strings-from-an-array)              |
+| 59  | [Sum of Cubes](https://edabit.com/challenge/XdAR3KohR5w7rjrFg)                                   | 2024/09/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sum-of-cubes)                                  |
 
 ### Medium
 
