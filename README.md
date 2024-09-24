@@ -149,6 +149,7 @@
 | 50  | [Number Split](https://edabit.com/challenge/xsi99TwpGyFC8KS6d)                                   | 2024/08/20      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/number-split)                                  |
 | 51  | [First and Last Index](https://edabit.com/challenge/AYpxyzbnbS7BGSgvd)                           | 2024/08/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/first-and-last-index)                          |
 | 52  | [Matchstick Houses](https://edabit.com/challenge/tYHkTdFrEmWfxpPKF)                              | 2024/08/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/matchstick-houses)                             |
+| 53  | [Return the Factorial](https://edabit.com/challenge/GW5kYFCvGWDZ6TRxd)                           | 2024/08/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/return-the-factorial)                          |
 
 ### Medium
 
