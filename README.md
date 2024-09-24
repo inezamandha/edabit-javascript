@@ -147,6 +147,7 @@
 | 48  | [Tuck in Array](https://edabit.com/challenge/7ysTEDruHz2prcJQ9)                                  | 2024/08/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/tuck-in-array)                                 |
 | 49  | [Summing a Slice](https://edabit.com/challenge/B3FR3P7g8NyTg7t8b)                                | 2024/08/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/summing-a-slice)                               |
 | 50  | [Number Split](https://edabit.com/challenge/xsi99TwpGyFC8KS6d)                                   | 2024/08/20      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/number-split)                                  |
+| 51  | [First and Last Index](https://edabit.com/challenge/AYpxyzbnbS7BGSgvd)                           | 2024/08/21      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/first-and-last-index)                          |
 
 ### Medium
 
