@@ -1,7 +1,6 @@
 function mean(arr) {
-  return Number(
-    arr.reduce((partialSum, a) => partialSum + a, 0) / arr.length
-  ).toFixed(2);
+  const sum = arr.reduce((total, num) => total + num, 0);
+  return parseFloat((sum / arr.length).toFixed(2));
 }
 
 export default mean;
