@@ -157,6 +157,7 @@
 | 58  | [Filter out Strings from an Array](https://edabit.com/challenge/b2NdDSdkjqFnCTfS8)               | 2024/08/30      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/filter-out-strings-from-an-array)              |
 | 59  | [Sum of Cubes](https://edabit.com/challenge/XdAR3KohR5w7rjrFg)                                   | 2024/09/02      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sum-of-cubes)                                  |
 | 60  | [Printer Levels](https://edabit.com/challenge/QXWM2oo7rQNiyDsip)                                 | 2024/09/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/printer-levels)                                |
+| 61  | [Adding Numbers in a String](https://edabit.com/challenge/qKQ8Bn6ontrLTTNsr)                     | 2024/09/04      | [Click here](https://edabit.com/challenge/qKQ8Bn6ontrLTTNsr)                                                                |
 
 ### Medium
 
