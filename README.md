@@ -159,6 +159,7 @@
 | 60  | [Printer Levels](https://edabit.com/challenge/QXWM2oo7rQNiyDsip)                                 | 2024/09/03      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/printer-levels)                                |
 | 61  | [Adding Numbers in a String](https://edabit.com/challenge/qKQ8Bn6ontrLTTNsr)                     | 2024/09/04      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/adding-numbers-in-a-string)                    |
 | 62  | [Calculate the Mean](https://edabit.com/challenge/8zBhNfrQv7CWKvcx3)                             | 2024/09/05      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/calculate-the-mean)                            |
+| 63  | [Highest Digit](https://edabit.com/challenge/YJuhHKSmNCaKNHcD3)                                  | 2024/09/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/highest-digit)                                 |
 
 ### Medium
 
