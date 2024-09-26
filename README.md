@@ -162,6 +162,7 @@
 | 63  | [Highest Digit](https://edabit.com/challenge/YJuhHKSmNCaKNHcD3)                                  | 2024/09/06      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/highest-digit)                                 |
 | 64  | [Phone Number Formatting](https://edabit.com/challenge/Z6oY6EWwT9rde8YXm)                        | 2024/09/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/phone-number-formatting)                       |
 | 65  | [Sum of Resistance in Series Circuits](https://edabit.com/challenge/JDkyQJqNfJNhvjmRW)           | 2024/09/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/sum-of-resistance-in-series-circuits)          |
+| 66  | [Pi to N Decimal Places](https://edabit.com/challenge/Y8vbWzFb2GcyQ3hMm)                         | 2024/09/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/easy/pi-to-n-decimal-places)                        |
 
 ### Medium
 
