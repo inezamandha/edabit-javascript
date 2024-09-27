@@ -170,3 +170,4 @@
 | No  | Challenge Name                                                      | Completion Date | Solution                                                                                         |
 | --- | ------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------ |
 | 1   | [How Much is True?](https://edabit.com/challenge/GLbuMfTtDWwDv2F73) | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/how-much-is-true) |
+| 2   | [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)      | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/finding-nemo)     |
