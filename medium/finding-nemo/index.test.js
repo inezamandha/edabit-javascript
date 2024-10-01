@@ -1,6 +1,6 @@
 import findNemo from './index';
 
-describe('Javascript - Medium - 1', () => {
+describe('Javascript - Medium - 2', () => {
   test('Finding Nemo', () => {
     expect(findNemo('I am Ne mo Nemo !')).toEqual('I found Nemo at 5!');
     expect(findNemo('N e m o is NEMO NeMo Nemo !')).toEqual(
