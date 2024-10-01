@@ -172,3 +172,4 @@
 | 1   | [How Much is True?](https://edabit.com/challenge/GLbuMfTtDWwDv2F73)         | 2024/07/08      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/how-much-is-true)          |
 | 2   | [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)              | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/finding-nemo)              |
 | 3   | [Get the Area of a Country](https://edabit.com/challenge/ejfdLAp673DwxSg5R) | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/get-the-area-of-a-country) |
+| 4   | [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)       | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/hitting-the-jackpot)       |
