@@ -173,3 +173,4 @@
 | 2   | [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)              | 2024/07/09      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/finding-nemo)              |
 | 3   | [Get the Area of a Country](https://edabit.com/challenge/ejfdLAp673DwxSg5R) | 2024/07/10      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/get-the-area-of-a-country) |
 | 4   | [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)       | 2024/07/11      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/hitting-the-jackpot)       |
+| 5   | [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)       | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/match-the-last-item)       |
