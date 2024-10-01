@@ -176,3 +176,4 @@
 | 5   | [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)               | 2024/07/12      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/match-the-last-item)               |
 | 6   | [ReverseAndNot](https://edabit.com/challenge/moK78CirzYbqk6g3z)                     | 2024/07/15      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/reverseandnot)                     |
 | 7   | [Move Capital Letters to the Front](https://edabit.com/challenge/8n9RyHThC3dNEPCng) | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/move-capital-letters-to-the-front) |
+| 8   | [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)   | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-duplicates-from-an-array)   |
