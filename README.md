@@ -178,3 +178,4 @@
 | 7   | [Move Capital Letters to the Front](https://edabit.com/challenge/8n9RyHThC3dNEPCng) | 2024/07/16      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/move-capital-letters-to-the-front) |
 | 8   | [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)   | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-duplicates-from-an-array)   |
 | 9   | [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)   | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/multiplying-numbers-in-a-string)   |
+| 10  | [Remove the Letters ABC](https://edabit.com/challenge/RftQjZs3srJnRBEH8)            | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-the-letters-abc)            |
