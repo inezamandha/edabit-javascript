@@ -179,3 +179,4 @@
 | 8   | [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)   | 2024/07/17      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-duplicates-from-an-array)   |
 | 9   | [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)   | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/multiplying-numbers-in-a-string)   |
 | 10  | [Remove the Letters ABC](https://edabit.com/challenge/RftQjZs3srJnRBEH8)            | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-the-letters-abc)            |
+| 11  | [Words that Start with a Vowel](https://edabit.com/challenge/KZwvC92KweCGiwiXF)     | 2024/07/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/words-that-start-with-a-vowel)     |
