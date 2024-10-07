@@ -180,3 +180,4 @@
 | 9   | [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)   | 2024/07/18      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/multiplying-numbers-in-a-string)   |
 | 10  | [Remove the Letters ABC](https://edabit.com/challenge/RftQjZs3srJnRBEH8)            | 2024/07/19      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/remove-the-letters-abc)            |
 | 11  | [Words that Start with a Vowel](https://edabit.com/challenge/KZwvC92KweCGiwiXF)     | 2024/07/22      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/words-that-start-with-a-vowel)     |
+| 12  | [Missing Letters](https://edabit.com/challenge/oYi96pXKazhquXXoT)                   | 2024/07/23      | [Click here](https://github.com/inezamandha/edabit-javascript/tree/main/medium/missing-letters)                   |
