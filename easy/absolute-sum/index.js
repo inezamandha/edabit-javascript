@@ -4,6 +4,4 @@ function getAbsSum(arr) {
     .reduce((partialSum, a) => partialSum + a, 0);
 }
 
-console.log(getAbsSum([2, -1, 4, 8, 10]));
-
 export default getAbsSum;
