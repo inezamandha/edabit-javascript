@@ -8,6 +8,4 @@ function amplify(num) {
   return finalNumbers;
 }
 
-console.log(amplify(4));
-
 export default amplify;
