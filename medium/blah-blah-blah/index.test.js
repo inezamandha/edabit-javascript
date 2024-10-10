@@ -1,6 +1,6 @@
 import blahBlah from './index';
 
-describe('Javascript - Medium - 23', () => {
+describe('Javascript - Medium - 24', () => {
   test('Blah, Blah, Blah...', () => {
     expect(
       blahBlah(
