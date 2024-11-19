@@ -1,3 +1,9 @@
+/**
+ *
+ * @param {string} str
+ * @returns {string}
+ */
+
 function absolute(str) {
   const wordInArray = str
     .split(' ')
