@@ -1,3 +1,9 @@
+/**
+ *
+ * @param {string} name
+ * @returns {string}
+ */
+
 function greeting(name) {
   if (name === 'Mubashir') {
     return 'Hello, my Love!';
