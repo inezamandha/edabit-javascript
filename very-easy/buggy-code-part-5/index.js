@@ -1,3 +1,9 @@
+/**
+ *
+ * @param {number} number
+ * @returns {number[]}
+ */
+
 function printArray(number) {
   var newArray = [];
 
