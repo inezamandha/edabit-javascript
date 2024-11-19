@@ -1,3 +1,9 @@
+/**
+ *
+ * @param {number[]} arr
+ * @returns {number}
+ */
+
 function getAbsSum(arr) {
   return arr
     .map((number) => Math.abs(number))
