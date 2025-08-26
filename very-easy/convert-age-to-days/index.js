@@ -1,3 +1,5 @@
-function calcAge(age) {}
+function calcAge(age) {
+  return age * 365;
+}
 
 export default calcAge;
